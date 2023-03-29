@@ -1,0 +1,7 @@
+{
+    "[haskell]": {
+        "editor.quickSuggestions": { "other": false, "comments": false, "strings": false },
+        "editor.semanticHighlighting.enabled": false,
+        "editor.wordBasedSuggestions": false
+    },
+}
